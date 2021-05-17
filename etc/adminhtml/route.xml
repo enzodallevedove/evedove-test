@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+
+    <router id="admin">
+        <route id="evedove_test" frontName="evedove_test">
+            <module name="Evedove_Test"/>
+        </route>
+    </router>
+
+</config>
